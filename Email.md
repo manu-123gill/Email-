@@ -1,6 +1,6 @@
 Email Setting 
-![image](hlppresentation1.jpeg)
-![image](hlppresentation1.jpeg)
-![image](hlppresentation1.jpeg)
-![image](hlppresentation1.jpeg)
-![image](hlppresentation1.jpeg)
+![image](emailnew.png)
+![image](Emailnew2.png)
+![image](Emailnew3.png)
+![image](emailnewprob.png)
+
